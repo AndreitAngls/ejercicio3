@@ -1,0 +1,9 @@
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.exe.config
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.exe
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\bin\Debug\ejer3.pdb
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.csprojResolveAssemblyReference.cache
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.capaIndex.CLIENTE.resources
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.Properties.Resources.resources
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.csproj.GenerateResource.Cache
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.exe
+c:\users\milan\documents\visual studio 2012\Projects\ejer3\ejer3\obj\Debug\ejer3.pdb
